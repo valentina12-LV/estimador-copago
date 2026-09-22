@@ -1,0 +1,3 @@
+streamlit>=1.38
+google-genai>=1.0.0
+requests>=2.32  # solo lo usa scripts/actualizar_hospitales.py

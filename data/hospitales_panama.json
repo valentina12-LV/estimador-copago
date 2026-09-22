@@ -1,0 +1,1214 @@
+{
+  "Colon": {
+    "publicos": [
+      {
+        "nombre": "Hospital Manuel Amador Guerrero (Colón)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Chagres",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Portobelo",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Sabanitas",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Panamá Norte (Colón)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica del Istmo (Colón)",
+        "especialidades": {
+          "Medicina General": 55.0,
+          "Cardiologia": 131.0,
+          "Dermatologia": 76.0,
+          "Traumatologia": 109.0,
+          "Pediatria": 65.0,
+          "Ginecologia": 98.0,
+          "Emergencia": 174.0
+        }
+      },
+      {
+        "nombre": "Clínica Punta Colón",
+        "especialidades": {
+          "Medicina General": 50.0,
+          "Cardiologia": 119.0,
+          "Dermatologia": 69.0,
+          "Traumatologia": 99.0,
+          "Pediatria": 59.0,
+          "Ginecologia": 89.0,
+          "Emergencia": 158.0
+        }
+      },
+      {
+        "nombre": "Clínica San Francisco (Colón)",
+        "especialidades": {
+          "Medicina General": 54.0,
+          "Cardiologia": 130.0,
+          "Dermatologia": 76.0,
+          "Traumatologia": 108.0,
+          "Pediatria": 65.0,
+          "Ginecologia": 97.0,
+          "Emergencia": 173.0
+        }
+      }
+    ]
+  },
+  "Los Santos": {
+    "publicos": [
+      {
+        "nombre": "Hospital Joaquín Pablo Franco (Las Tablas)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital Anita Moreno (Chitré)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Guararé",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Pedasí",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Macaracas",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica de Las Tablas",
+        "especialidades": {
+          "Medicina General": 51.0,
+          "Cardiologia": 122.0,
+          "Dermatologia": 71.0,
+          "Traumatologia": 102.0,
+          "Pediatria": 61.0,
+          "Ginecologia": 92.0,
+          "Emergencia": 163.0
+        }
+      },
+      {
+        "nombre": "Clínica Santa María (Las Tablas)",
+        "especialidades": {
+          "Medicina General": 54.0,
+          "Cardiologia": 128.0,
+          "Dermatologia": 75.0,
+          "Traumatologia": 107.0,
+          "Pediatria": 64.0,
+          "Ginecologia": 96.0,
+          "Emergencia": 171.0
+        }
+      }
+    ]
+  },
+  "Chiriqui": {
+    "publicos": [
+      {
+        "nombre": "Hospital Materno Infantil \"José Domingo de Obaldía\" (David)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital Rafael Hernández (David)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Boquete",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de David",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital Regional de Chiriquí (David)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Renacimiento",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Divalá",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Volcán",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Hospital Chiriquí (David)",
+        "especialidades": {
+          "Medicina General": 46.0,
+          "Cardiologia": 112.0,
+          "Dermatologia": 65.0,
+          "Traumatologia": 93.0,
+          "Pediatria": 56.0,
+          "Ginecologia": 84.0,
+          "Emergencia": 149.0
+        }
+      },
+      {
+        "nombre": "Clínica San Juan de Dios (David)",
+        "especialidades": {
+          "Medicina General": 52.0,
+          "Cardiologia": 124.0,
+          "Dermatologia": 72.0,
+          "Traumatologia": 103.0,
+          "Pediatria": 62.0,
+          "Ginecologia": 93.0,
+          "Emergencia": 165.0
+        }
+      },
+      {
+        "nombre": "Clínica El Buen Samaritano (David)",
+        "especialidades": {
+          "Medicina General": 50.0,
+          "Cardiologia": 119.0,
+          "Dermatologia": 69.0,
+          "Traumatologia": 99.0,
+          "Pediatria": 59.0,
+          "Ginecologia": 89.0,
+          "Emergencia": 158.0
+        }
+      },
+      {
+        "nombre": "Clínica Especializada de Chiriquí (David)",
+        "especialidades": {
+          "Medicina General": 48.0,
+          "Cardiologia": 116.0,
+          "Dermatologia": 68.0,
+          "Traumatologia": 97.0,
+          "Pediatria": 58.0,
+          "Ginecologia": 87.0,
+          "Emergencia": 155.0
+        }
+      }
+    ]
+  },
+  "Herrera": {
+    "publicos": [
+      {
+        "nombre": "Hospital Cecilio A. Castillero (Chitré)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de La Villa de Los Santos",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Parita",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Pesé",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Ocú",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica San Juan de Dios (Chitré)",
+        "especialidades": {
+          "Medicina General": 52.0,
+          "Cardiologia": 124.0,
+          "Dermatologia": 72.0,
+          "Traumatologia": 103.0,
+          "Pediatria": 62.0,
+          "Ginecologia": 93.0,
+          "Emergencia": 165.0
+        }
+      },
+      {
+        "nombre": "Clínica Herrera (Chitré)",
+        "especialidades": {
+          "Medicina General": 52.0,
+          "Cardiologia": 125.0,
+          "Dermatologia": 73.0,
+          "Traumatologia": 104.0,
+          "Pediatria": 62.0,
+          "Ginecologia": 94.0,
+          "Emergencia": 166.0
+        }
+      },
+      {
+        "nombre": "Clínica de Las Minas",
+        "especialidades": {
+          "Medicina General": 46.0,
+          "Cardiologia": 109.0,
+          "Dermatologia": 64.0,
+          "Traumatologia": 91.0,
+          "Pediatria": 55.0,
+          "Ginecologia": 82.0,
+          "Emergencia": 146.0
+        }
+      }
+    ]
+  },
+  "Veraguas": {
+    "publicos": [
+      {
+        "nombre": "Hospital Dr. Luis \"Chicho\" Fábrega (Santiago)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital Rafael Hernández (Las Tablas)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Soná",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Montijo",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Atalaya",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Calobre",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de La Mesa",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica de Santiago",
+        "especialidades": {
+          "Medicina General": 55.0,
+          "Cardiologia": 132.0,
+          "Dermatologia": 77.0,
+          "Traumatologia": 110.0,
+          "Pediatria": 66.0,
+          "Ginecologia": 99.0,
+          "Emergencia": 176.0
+        }
+      },
+      {
+        "nombre": "Clínica San Miguel (Santiago)",
+        "especialidades": {
+          "Medicina General": 46.0,
+          "Cardiologia": 112.0,
+          "Dermatologia": 65.0,
+          "Traumatologia": 93.0,
+          "Pediatria": 56.0,
+          "Ginecologia": 84.0,
+          "Emergencia": 149.0
+        }
+      },
+      {
+        "nombre": "Clínica de Soná",
+        "especialidades": {
+          "Medicina General": 45.0,
+          "Cardiologia": 108.0,
+          "Dermatologia": 63.0,
+          "Traumatologia": 90.0,
+          "Pediatria": 54.0,
+          "Ginecologia": 81.0,
+          "Emergencia": 144.0
+        }
+      },
+      {
+        "nombre": "Clínica Doctor Ramos (Santiago)",
+        "especialidades": {
+          "Medicina General": 47.0,
+          "Cardiologia": 113.0,
+          "Dermatologia": 66.0,
+          "Traumatologia": 94.0,
+          "Pediatria": 56.0,
+          "Ginecologia": 85.0,
+          "Emergencia": 150.0
+        }
+      }
+    ]
+  },
+  "Panama Oeste": {
+    "publicos": [
+      {
+        "nombre": "Hospital Nicolás A. Solano (La Chorrera)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital Regional de la Caja de Seguro Social (CSS) (La Chorrera)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Arraiján",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Capira",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Chame",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Centro de Salud de La Chorrera",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Centro de Salud de Nuevo Arraiján",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Centro de Salud de Panamá Oeste (Juan Díaz)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Centro de Salud de San Carlos",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica Hospital San Fernando (La Chorrera)",
+        "especialidades": {
+          "Medicina General": 46.0,
+          "Cardiologia": 110.0,
+          "Dermatologia": 64.0,
+          "Traumatologia": 92.0,
+          "Pediatria": 55.0,
+          "Ginecologia": 83.0,
+          "Emergencia": 147.0
+        }
+      },
+      {
+        "nombre": "Clínica del Oeste (La Chorrera)",
+        "especialidades": {
+          "Medicina General": 48.0,
+          "Cardiologia": 116.0,
+          "Dermatologia": 68.0,
+          "Traumatologia": 97.0,
+          "Pediatria": 58.0,
+          "Ginecologia": 87.0,
+          "Emergencia": 155.0
+        }
+      }
+    ]
+  },
+  "Panama": {
+    "publicos": [
+      {
+        "nombre": "Hospital Santo Tomás (Ciudad de Panamá)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de la Caja de Seguro Social (CSS) (Ciudad de Panamá)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital Clínico Universitario (Ciudad de Panamá)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital San Miguel Arcángel (San Miguelito)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Panamá (Hospital de la CSS) (Ciudad de Panamá)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital Punta Pacífica (Ciudad de Panamá)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Tocumen",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Pacora",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de San Miguelito",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Policlínica Don Alejandro de la Guardia (Bethania)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Policlínica Dr. Generoso Guardia (Santa Librada)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Hospital Punta Pacífica (Ciudad de Panamá)",
+        "especialidades": {
+          "Medicina General": 48.0,
+          "Cardiologia": 114.0,
+          "Dermatologia": 66.0,
+          "Traumatologia": 95.0,
+          "Pediatria": 57.0,
+          "Ginecologia": 86.0,
+          "Emergencia": 152.0
+        }
+      },
+      {
+        "nombre": "Hospital Nacional (Ciudad de Panamá)",
+        "especialidades": {
+          "Medicina General": 52.0,
+          "Cardiologia": 125.0,
+          "Dermatologia": 73.0,
+          "Traumatologia": 104.0,
+          "Pediatria": 62.0,
+          "Ginecologia": 94.0,
+          "Emergencia": 166.0
+        }
+      },
+      {
+        "nombre": "Clínica Hospital San Fernando (Ciudad de Panamá)",
+        "especialidades": {
+          "Medicina General": 46.0,
+          "Cardiologia": 110.0,
+          "Dermatologia": 64.0,
+          "Traumatologia": 92.0,
+          "Pediatria": 55.0,
+          "Ginecologia": 83.0,
+          "Emergencia": 147.0
+        }
+      },
+      {
+        "nombre": "Clínica del Mar (Ciudad de Panamá)",
+        "especialidades": {
+          "Medicina General": 52.0,
+          "Cardiologia": 125.0,
+          "Dermatologia": 73.0,
+          "Traumatologia": 104.0,
+          "Pediatria": 62.0,
+          "Ginecologia": 94.0,
+          "Emergencia": 166.0
+        }
+      },
+      {
+        "nombre": "Hospital Chiriquí (Ciudad de Panamá)",
+        "especialidades": {
+          "Medicina General": 46.0,
+          "Cardiologia": 112.0,
+          "Dermatologia": 65.0,
+          "Traumatologia": 93.0,
+          "Pediatria": 56.0,
+          "Ginecologia": 84.0,
+          "Emergencia": 149.0
+        }
+      }
+    ]
+  },
+  "Bocas del Toro": {
+    "publicos": [
+      {
+        "nombre": "Hospital Doctor Ernesto E. Pérez (Bocas del Toro, ciudad)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Changuinola",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Almirante",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Puerto Armuelles",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Chiriquí Grande",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica Bocas del Toro (Bocas del Toro, ciudad)",
+        "especialidades": {
+          "Medicina General": 52.0,
+          "Cardiologia": 126.0,
+          "Dermatologia": 74.0,
+          "Traumatologia": 105.0,
+          "Pediatria": 63.0,
+          "Ginecologia": 94.0,
+          "Emergencia": 168.0
+        }
+      },
+      {
+        "nombre": "Clínica de Changuinola",
+        "especialidades": {
+          "Medicina General": 51.0,
+          "Cardiologia": 122.0,
+          "Dermatologia": 71.0,
+          "Traumatologia": 102.0,
+          "Pediatria": 61.0,
+          "Ginecologia": 92.0,
+          "Emergencia": 163.0
+        }
+      },
+      {
+        "nombre": "Clínica Médica San José (Bocas del Toro, ciudad)",
+        "especialidades": {
+          "Medicina General": 54.0,
+          "Cardiologia": 128.0,
+          "Dermatologia": 75.0,
+          "Traumatologia": 107.0,
+          "Pediatria": 64.0,
+          "Ginecologia": 96.0,
+          "Emergencia": 171.0
+        }
+      }
+    ]
+  },
+  "Darien": {
+    "publicos": [
+      {
+        "nombre": "Hospital Manuel Amador Guerrero (La Palma)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Chepo",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Metetí",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de La Palma",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de El Real de San Juan",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica San Vicente (La Palma)",
+        "especialidades": {
+          "Medicina General": 48.0,
+          "Cardiologia": 114.0,
+          "Dermatologia": 66.0,
+          "Traumatologia": 95.0,
+          "Pediatria": 57.0,
+          "Ginecologia": 86.0,
+          "Emergencia": 152.0
+        }
+      },
+      {
+        "nombre": "Clínica de Metetí",
+        "especialidades": {
+          "Medicina General": 50.0,
+          "Cardiologia": 119.0,
+          "Dermatologia": 69.0,
+          "Traumatologia": 99.0,
+          "Pediatria": 59.0,
+          "Ginecologia": 89.0,
+          "Emergencia": 158.0
+        }
+      }
+    ]
+  },
+  "Cocle": {
+    "publicos": [
+      {
+        "nombre": "Hospital Aquilino Tejeira (Penonomé)",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de La Pintada",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de El Valle de Anton",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Aguadulce",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Olá",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      },
+      {
+        "nombre": "Hospital de Antón",
+        "especialidades": [
+          "Medicina General",
+          "Cardiologia",
+          "Dermatologia",
+          "Traumatologia",
+          "Pediatria",
+          "Ginecologia",
+          "Emergencia"
+        ]
+      }
+    ],
+    "privados": [
+      {
+        "nombre": "Clínica Santa Clara (Penonomé)",
+        "especialidades": {
+          "Medicina General": 47.0,
+          "Cardiologia": 113.0,
+          "Dermatologia": 66.0,
+          "Traumatologia": 94.0,
+          "Pediatria": 56.0,
+          "Ginecologia": 85.0,
+          "Emergencia": 150.0
+        }
+      },
+      {
+        "nombre": "Clínica de Coclé (Penonomé)",
+        "especialidades": {
+          "Medicina General": 48.0,
+          "Cardiologia": 114.0,
+          "Dermatologia": 66.0,
+          "Traumatologia": 95.0,
+          "Pediatria": 57.0,
+          "Ginecologia": 86.0,
+          "Emergencia": 152.0
+        }
+      }
+    ]
+  }
+}
