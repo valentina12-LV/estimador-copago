@@ -111,9 +111,4 @@ streamlit run app.py
 5. Clic en **Deploy**. En 1-2 minutos obtienes una URL pública tipo
    `https://tu-app.streamlit.app`.
 
-## Entregables del hackIAthon
 
-- **Enlace público del agente funcional**: la URL que te da Streamlit Cloud.
-- **Enlace del repositorio**: la URL de este repo en GitHub.
-
-Envía ambos enlaces a `hackiathon@viamatica.com`.
